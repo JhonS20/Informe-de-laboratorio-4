@@ -49,6 +49,8 @@
 4.1. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones. 
 
 ![lab 4 final_Página_6](https://user-images.githubusercontent.com/93209004/147174076-74028a1f-2d3d-434b-b816-467bf065567e.jpg)
+![image](https://user-images.githubusercontent.com/93899658/147257476-c6e4222d-2be6-4a03-9e3a-d118a1ba5d14.png)
+
 
 5.	VIDEO
 
