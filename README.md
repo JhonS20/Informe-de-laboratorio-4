@@ -14,9 +14,10 @@
 
 2.	MARCO TEORICO 
 
+ ![Diagrama en blanco](https://user-images.githubusercontent.com/93899658/147181519-bcd2e49c-fc1e-4273-8164-62baaa50246c.png)
 
+3.	EXPLICACION DEL PROCEDIMIENTO
 
-3.	EXPLICACION DEL PROCEDIMIENTO 
 
 3.1.	Material y equipo requerido 
 
