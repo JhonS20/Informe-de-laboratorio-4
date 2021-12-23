@@ -4,7 +4,7 @@
 
 1.1.	Objetivos Generales 
 
-•	
+• Analizar el efecto que dos o más fuentes tienen sobre un circuito y mediante el teorema de superposicion lograr determinar la relacion que existe entre ellos.
 
 1.2.	Objetivos Específicos 
 
