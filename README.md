@@ -8,7 +8,7 @@
 
 1.2.	Objetivos Específicos 
 
-•	
+•	Construir en el estudiante un idea sobre las formas de analizar circuitos y compararlos con los otros metodos vistos en clase.
 
 •	 
 
