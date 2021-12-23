@@ -55,6 +55,7 @@
 
 6.	CONCLUSIONES	
 
+•	Como conclusión logramos verificar que el Teorema de Superposición se cumple teniendo un porcentaje de error mínimo, además de ser un método muy práctico para resolver circuitos complejos volviendo los circuitos y, por ende, los cálculos más simples.
 
 7. BIBLIOGRAFÍA 
 
