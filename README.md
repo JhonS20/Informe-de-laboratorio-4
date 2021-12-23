@@ -10,7 +10,7 @@
 
 •	Construir en el estudiante un idea sobre las formas de analizar circuitos y compararlos con los otros metodos vistos en clase.
 
-•	 
+•	Determinar las corrientes  y lo voltajes con este teorema, luego,  realizar una analisis respectivo con los resultados obtenidos en cada  caso.
 
 2.	MARCO TEORICO 
 
